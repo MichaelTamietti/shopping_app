@@ -3,7 +3,7 @@
 #
 # Examples:
 
-    Department.create(name: "Example", location: "Example", store_id: 1)
+    # Department.create(name: "Example", location: "Example", store_id: 1)
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
